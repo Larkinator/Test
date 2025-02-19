@@ -5,3 +5,4 @@ yellow
 pink
 green
 blue
+orange
